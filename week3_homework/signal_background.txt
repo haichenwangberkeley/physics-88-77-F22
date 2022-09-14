@@ -1,0 +1,5 @@
+signal: 25.239  background: 3564.6 
+signal: 41.606  background: 1626.2 
+signal: 10.761  background: 1499.1 
+signal: 80.825  background: 15103.7 
+signal: 275.736  background: 5029.5 
